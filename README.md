@@ -1,1 +1,2 @@
-# Kumashov Sergey
+# Kumashov Sergey 
+# Junior Frontend Developer
