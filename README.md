@@ -1,4 +1,1 @@
-# Kumashov Sergey 
-# Junior Frontend Developer
-# Education
-# University: Belarusian state university of transport, Civil Engineering major
+https://SKumashov.github.io/rsschool-cv/cv
