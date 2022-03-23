@@ -1,1 +1,1 @@
-# rsschool-cv
+# Kumashov Sergey
